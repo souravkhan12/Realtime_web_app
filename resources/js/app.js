@@ -30,3 +30,4 @@ addToCart.forEach((btn)=>{
         updateCart(pizza)
     })
 })
+

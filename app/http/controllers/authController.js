@@ -6,6 +6,9 @@ function authController(){
 
         register(req,res){
             res.render('auth/register')
+        },
+        postRegister(req,res){
+            const { name ,email,password } = req.body;
         }
     }
 }

@@ -1,0 +1,2 @@
+[-] passport implementing
+[-] socket.io implementing
